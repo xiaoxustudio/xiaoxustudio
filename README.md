@@ -1,9 +1,9 @@
-## XiaoXuStudio
-
+## XuRan
+XiaoXuStudio
 一个主做游戏的工作室
 
 ```
-print("Hello I'm XiaoxuStudio")
+print("Hello I'm XuRan")
 ```
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
