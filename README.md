@@ -1,6 +1,6 @@
 ## XuRan
-XiaoXuStudio
-一个主做游戏的工作室
+
+喜欢编程、喜欢音乐，喜欢自己
 
 ```
 print("Hello I'm XuRan")
