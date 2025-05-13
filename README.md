@@ -16,5 +16,8 @@ print("Hello I'm XuRan")
 * 捐助开发者
 ! [支付宝](https://github.com/xiaoxu1111/xuranxys_Game/blob/main/zfb.jpg)
 
+## 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoxustudio" /> </div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=xiaoxustudio&locale=zh_Hans" alt="GitHub Streak" /></div>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xiaoxustudio&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="xiaoxustudio's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxustudio&theme=vue&show_icons=true&hide_border=true&layout=compact" alt="xiaoxustudio's GitHub Stats" /></div>
