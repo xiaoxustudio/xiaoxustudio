@@ -16,6 +16,14 @@ print("Hello I'm XuRan")
 * 捐助开发者
 ! [支付宝](https://github.com/xiaoxu1111/xuranxys_Game/blob/main/zfb.jpg)
 
+## Skill
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,vue,godot" />
+  </a>
+</p>
+
 ## 
 
 <div align="center"><img src=https://streak-stats.demolab.com/?user=xiaoxustudio" alt="GitHub Streak" /></div>
