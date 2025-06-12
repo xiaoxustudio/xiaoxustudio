@@ -8,7 +8,7 @@ print("Hello I'm XuRan")
 ```
 ## contact me
 If you have any questions during use, please feel free to give me feedback. You can contact me through the following methods.
-* website：[小徐工作室](https://www.xiaoxustudio.top)
+* website：[xiaoxustudio](https://www.xiaoxustudio.top)
 * email: (xugame@qq.com)
 * bilibili: [@徐然XYS](https://space.bilibili.com/291565199)
 
