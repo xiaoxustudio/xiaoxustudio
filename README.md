@@ -13,7 +13,7 @@ If you have any questions during use, please feel free to give me feedback. You 
 * bilibili: [@徐然XYS](https://space.bilibili.com/291565199)
 
 * donate
-! [Alipay](https://github.com/xiaoxu1111/xuranxys_Game/blob/main/zfb.jpg)
+![Alipay](https://github.com/xiaoxu1111/xuranxys_Game/blob/main/zfb.jpg)
 
 ## Skill
 
