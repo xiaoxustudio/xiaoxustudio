@@ -12,8 +12,7 @@ If you have any questions during use, please feel free to give me feedback. You 
 * email: (xugame@qq.com)
 * bilibili: [@徐然XYS](https://space.bilibili.com/291565199)
 
-* donate
-![Alipay](https://github.com/xiaoxu1111/xuranxys_Game/blob/main/zfb.jpg)
+* donate： <img src="https://github.com/xiaoxu1111/xuranxys_Game/blob/main/zfb.jpg" width="300"/>
 
 ## Skill
 
