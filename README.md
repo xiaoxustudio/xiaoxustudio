@@ -1,9 +1,9 @@
 ## XuRan
 
-A front-end engineer  
+A front-end engineer , loves programming and technology.
 I enjoy programming and music, and I love❤️ myself.
 
-```
+```py
 print("Hello I'm XuRan")
 ```
 ## contact me
@@ -16,7 +16,7 @@ If you have any questions during use, please feel free to give me feedback. You 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,vue,godot" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,vue,electron,go,nodejs,godot" />
   </a>
 </p>
 
