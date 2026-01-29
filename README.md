@@ -22,6 +22,8 @@ If you have any questions during use, please feel free to give me feedback. You 
 
 ## 
 
-<div align="center"><img src=https://streak-stats.demolab.com/?user=xiaoxustudio" alt="GitHub Streak" /></div>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=xiaoxustudio" alt="GitHub Streak" />
+</div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xiaoxustudio&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="xiaoxustudio's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxustudio&theme=vue&show_icons=true&hide_border=true&layout=compact" alt="xiaoxustudio's GitHub Stats" /></div>
