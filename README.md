@@ -4,19 +4,19 @@ A front-end engineer , loves programming and technology.
 I enjoy programming and music, and I love❤️ myself.
 
 ```py
-print("Hello I'm XuRan")
+console.log("Hello I'm XuRan")
 ```
 ## contact me
 If you have any questions during use, please feel free to give me feedback. You can contact me through the following methods.
 * website：[xiaoxustudio](https://www.xiaoxustudio.top)
-* email: (xugame@qq.com)
+* email: (xiaoxustudio@foxmail.com)
 * bilibili: [@徐然XYS](https://space.bilibili.com/291565199)
 
 ## Skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,vue,electron,go,nodejs,godot" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,less,react,vue,vite,webpack,electron,tauri,go,nodejs,godot" />
   </a>
 </p>
 
