@@ -6,6 +6,11 @@ I enjoy programming and music, and I love❤️ myself.
 ```py
 console.log("Hello I'm XuRan")
 ```
+
+> The front-end is not limited to technology and fields in order to go further and fly higher.
+> 
+> 前端不局限于技术和领域，才能走得更远，飞得更高。
+
 ## contact me
 If you have any questions during use, please feel free to give me feedback. You can contact me through the following methods.
 * website：[xiaoxustudio](https://www.xiaoxustudio.top)
